@@ -10,4 +10,4 @@ backlog = 2048
 
 worker_class = "eventlet"
 worker_connections = 2048
-max_requests = 0
+max_requests = 1000
